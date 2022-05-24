@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming and coding
 - 🌱 I’m currently learning coding and minecraft redstone
 - 💞️ I’m looking to collaborate on python coding
-- 📫 How to reach me dm me on discord, ProGamer1224#0636
+- 📫 How to reach me dm me on discord, Unknown ProGamer#0636
 
 <!---
 ProGamer1224/ProGamer1224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
